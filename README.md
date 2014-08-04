@@ -27,17 +27,19 @@ Schematic of the basic board
 
 
 ## BOM:
-1 WM9701A TQFP IC	 	 4.00 USD
-1 NC7SZ66_SOT23-5		 0.80 USD
-1 MC78L05ACD			 1.40 USD
-1 24.576Mhz Crystal		 0.15 USD
-? Random parts (not precise) 	 2.00 USD (will be defined beter later
-PCB Fab	10x10cm=$25, 5x5=14	 25.0 USD
------------------------------------------------
-Total estimated			 33.35 USD
+|Amount| Name		  |Price|
+|------|:----------------:|----:|
+|1     | _WM9701A TQFP IC | 4.00|
+|1     | NC7SZ66_SOT23-5  | 0.80|
+|1     | MC78L05ACD       | 1.40|
+|1     | 24.576Mhz Crystal| 0.15|
+|?     | Random parts     | 2.00|
+|1     | PCB Fab	  |25.00|
+|-------------------------------|
+|Total estimated	| 33.35 |
 
 Not yet precise, soldering, resistors, caps and randomness
-
+10cmx10cm=$25, 5cmx5cm=$14 at dirtyPcbh
 
 WM9701
 WM9703 (with a resistor mod for slave mode?
