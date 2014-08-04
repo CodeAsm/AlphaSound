@@ -47,7 +47,7 @@
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
-<layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
+<layer number="93" name="Pins" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
@@ -231,56 +231,9 @@ tbd&lt;p&gt;</description>
 </gates>
 <devices>
 <device name="A" package="TQFP48">
-<connects>
-<connect gate="G$1" pin="ADIN0" pad="1"/>
-<connect gate="G$1" pin="ADIN1" pad="13"/>
-<connect gate="G$1" pin="ADIN2" pad="14"/>
-<connect gate="G$1" pin="ADIN3" pad="15"/>
-<connect gate="G$1" pin="ADIN4" pad="16"/>
-<connect gate="G$1" pin="ADIN5" pad="17"/>
-<connect gate="G$1" pin="AGND" pad="11"/>
-<connect gate="G$1" pin="AVCC" pad="18"/>
-<connect gate="G$1" pin="GND" pad="31"/>
-<connect gate="G$1" pin="INT0" pad="35"/>
-<connect gate="G$1" pin="INT1" pad="34"/>
-<connect gate="G$1" pin="NC1" pad="2"/>
-<connect gate="G$1" pin="NC10" pad="12"/>
-<connect gate="G$1" pin="NC11" pad="19"/>
-<connect gate="G$1" pin="NC12" pad="21"/>
-<connect gate="G$1" pin="NC13" pad="25"/>
-<connect gate="G$1" pin="NC14" pad="26"/>
-<connect gate="G$1" pin="NC15" pad="27"/>
-<connect gate="G$1" pin="NC16" pad="28"/>
-<connect gate="G$1" pin="NC17" pad="29"/>
-<connect gate="G$1" pin="NC18" pad="30"/>
-<connect gate="G$1" pin="NC19" pad="32"/>
-<connect gate="G$1" pin="NC2" pad="3"/>
-<connect gate="G$1" pin="NC20" pad="36"/>
-<connect gate="G$1" pin="NC21" pad="37"/>
-<connect gate="G$1" pin="NC22" pad="40"/>
-<connect gate="G$1" pin="NC23" pad="41"/>
-<connect gate="G$1" pin="NC24" pad="42"/>
-<connect gate="G$1" pin="NC25" pad="43"/>
-<connect gate="G$1" pin="NC26" pad="48"/>
-<connect gate="G$1" pin="NC3" pad="4"/>
-<connect gate="G$1" pin="NC4" pad="5"/>
-<connect gate="G$1" pin="NC5" pad="6"/>
-<connect gate="G$1" pin="NC6" pad="7"/>
-<connect gate="G$1" pin="NC7" pad="8"/>
-<connect gate="G$1" pin="NC8" pad="9"/>
-<connect gate="G$1" pin="NC9" pad="10"/>
-<connect gate="G$1" pin="PA0" pad="47"/>
-<connect gate="G$1" pin="PA1" pad="46"/>
-<connect gate="G$1" pin="PA2" pad="45"/>
-<connect gate="G$1" pin="PA3" pad="44"/>
-<connect gate="G$1" pin="PA4" pad="39"/>
-<connect gate="G$1" pin="PA5" pad="38"/>
-<connect gate="G$1" pin="PA6" pad="33"/>
-<connect gate="G$1" pin="RESET" pad="20"/>
-<connect gate="G$1" pin="VCC" pad="22"/>
-<connect gate="G$1" pin="XTAL1" pad="24"/>
-<connect gate="G$1" pin="XTAL2" pad="23"/>
-</connects>
+<technologies>
+<technology name=""/>
+</technologies>
 </device>
 </devices>
 </deviceset>
