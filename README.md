@@ -20,8 +20,7 @@ the component side of the
 Device, component and layout of
 * **AMR_BUS**
 * **MC78L05ACD**
-* **NC7SZ66_SOT23-5**
-
+* **NC7SZ66** SOT23-5 (pakage, pins)
 
 Schematic of the basic board
 * PCB design of the basic board
@@ -29,12 +28,17 @@ Schematic of the basic board
 
 ## BOM:
 1 WM9701A TQFP IC	 	 4.00 USD
-1 NC7SZ66_SOT23-5		 0.40 USD
-1 MC78L05ACD			 0.40 USD
+1 NC7SZ66_SOT23-5		 0.80 USD
+1 MC78L05ACD			 1.40 USD
 1 24.576Mhz Crystal		 0.15 USD
 ? Random parts (not precise) 	 2.00 USD (will be defined beter later
 PCB Fab	10x10cm=$25, 5x5=14	 25.0 USD
 -----------------------------------------------
-Total estimated			 31.95 USD
+Total estimated			 33.35 USD
 
 Not yet precise, soldering, resistors, caps and randomness
+
+
+WM9701
+WM9703 (with a resistor mod for slave mode?
+WM9707 ? should be working, intresting info was found in the specs
