@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Bus_AMR
+D AMR bus connector
+K AMR
+F https://old.pinouts.ru/Motherboard/amr_pinout.shtml
+$ENDCMP
+#
+#End Doc Library
