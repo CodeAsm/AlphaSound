@@ -11,7 +11,7 @@ Create a full reproduction project file of the WM9707AMR evaluation board.
 ## Stretch goal
 Manufacturer the board and test in (franken)Alpha
 
-#Requirements
+# Requirements
 
 * KiCad
 
