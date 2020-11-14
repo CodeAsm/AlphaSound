@@ -1,6 +1,12 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP Bus_AMR
+$CMP AMR_FINGERS_A
+D AMR bus connector
+K AMR
+F https://old.pinouts.ru/Motherboard/amr_pinout.shtml
+$ENDCMP
+#
+$CMP AMR_FINGERS_B
 D AMR bus connector
 K AMR
 F https://old.pinouts.ru/Motherboard/amr_pinout.shtml
