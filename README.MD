@@ -1,9 +1,7 @@
 AlphaSound
 ==========
 
-Xbox Alpha Audio codec board project.
-Ive switched to try recreating this board in KiCad as a learning exercise. currently there are no known public Eagle or KiCad files.
-However there are 2 known builds that succeeded based on the Datasheet wolfsonmicro publiced. By Aspect and most popular a PCB made by N64Freak. I got one of the boards from N64Freak. I have no intent to be the first or the best. comments, suggestions or corrections are welcome.
+Xbox Alpha Audio codec board project. I switched to re-create this board in KiCad as a learning exercise. Currently there are no known public Eagle or KiCad files. However, there are 2 known builds that have succeeded based on the published Datasheet wolfsonmicro. By Aspect and most popular a PCB made by N64Freak. I have one of the boards from N64Freak. I have no intention of being the first or the best. comments, suggestions or corrections are welcome.
 
 # Goal
 Create a full reproduction project file of the WM9707AMR evaluation board.
