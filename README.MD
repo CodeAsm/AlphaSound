@@ -28,3 +28,4 @@ Manufacturer the board and test in (franken)Alpha
 * https://i.imgur.com/HJ4W9sM.jpg
 * https://web.archive.org/web/20040517010459/http://www.wolfsonmicro.com/uploads/documents/WM9707AMR.pdf
 * https://kicad.github.io/footprints/Connector_PCBEdge
+* https://www.youtube.com/watch?v=B59n6eJzxMU&list=PL3by7evD3F51fKkyrUbH-PCdwPCWc9F8a

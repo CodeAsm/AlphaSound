@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NC7SZ66
+D Low Voltage Single SPST Normally Open Bus Switch
+K SPST, Bus, Bus Switch, Switch
+F https://www.onsemi.com/pub/Collateral/NC7SZ66-D.pdf
+$ENDCMP
+#
+#End Doc Library

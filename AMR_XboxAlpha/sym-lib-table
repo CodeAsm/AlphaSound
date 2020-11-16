@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name bus_amr)(type Legacy)(uri /home/codeasm/Projects/AMR/Parts/bus_amr.lib)(options "")(descr ""))
+  (lib (name NC7SZ66)(type Legacy)(uri /home/codeasm/Projects/AMR/Parts/NC7SZ66.lib)(options "")(descr ""))
 )
